@@ -4,3 +4,4 @@
 <p>Bu sahifani ichida navbar,header,main va footer mavjud.</p>
 <p>Bu saytda HTML,CSS va BOOTSTRAP ishlatilgan.</p>
 <p>Bu meni darajamdagi web-sahifa.</p>
+<p>Bu sayt men haqimda!</p>
